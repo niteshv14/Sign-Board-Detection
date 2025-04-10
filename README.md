@@ -4,6 +4,8 @@ This repository provides a complete pipeline for training a YOLOv8 object detect
 
 Sign Detection
 ├── Annotation/                         # CSV file with bounding boxes and class labels
+
+
 ├── Dataset/                            # Contains subfolders with images per class
 ├── Object_Tracking/Video/             # Contains test video (UnSeen_Dataset.mp4)
 ├── labels/                             # YOLO formatted annotations (auto-generated)
